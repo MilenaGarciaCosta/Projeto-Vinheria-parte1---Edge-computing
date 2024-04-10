@@ -1,5 +1,5 @@
 # Projeto Vinheria Angello
-### Este é o priemiro passo deste projeto. Um sensor recebe informações sobre a luminosidade do ambiente, e caso esteja inadequada para manter a integridade dos vinhos da Vinheria Angello um apito soara para alertar.
+#### Este é o priemiro passo do projeto vinheria para a aula de Edge computing. Um sensor fotoresistor recebe informações sobre a luminosidade do ambiente, e caso esteja inadequada para manter a integridade dos vinhos da Vinheria Angello um apito soara para alertar.
 ![Circuito](foto-circuito.png)
 
 
