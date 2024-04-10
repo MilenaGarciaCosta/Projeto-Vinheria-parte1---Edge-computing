@@ -1,0 +1,1 @@
+# Projeto-Vinheria-parte1---Edge-computing
