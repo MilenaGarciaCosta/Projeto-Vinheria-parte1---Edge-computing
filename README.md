@@ -1,1 +1,1 @@
-# Projeto-Vinheria-parte1---Edge-computing
+![Circuito](foto-circuito.png)
