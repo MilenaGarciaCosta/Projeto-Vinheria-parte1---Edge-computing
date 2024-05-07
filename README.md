@@ -5,6 +5,9 @@
 Simulação Wokwi: https://wokwi.com/projects/397084276023000065
 ![Circuito](circuito-img.png)
 
+Tecnologias utilizadas:
+![Wokwi](https://img.shields.io/badge/Wokwi-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ## Integrantes do projeto
 RM   | Nome
 ------- | ------
